@@ -1,0 +1,6 @@
+PROGRAM init
+
+INTEGER::i
+WRITE(*,*) i
+
+END PROGRAM init

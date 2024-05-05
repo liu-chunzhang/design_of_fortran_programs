@@ -1,0 +1,8 @@
+PROGRAM test
+
+!LOGICAL::i = 11 .AND. .NOT. 12
+LOGICAL::j = (11 .OR. 12) .AND. 13
+
+WRITE(*,*) j
+
+END PROGRAM test
