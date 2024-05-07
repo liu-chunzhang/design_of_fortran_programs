@@ -2,6 +2,7 @@ PROGRAM earning
 !目的：
 !  计算每周员工获得的收入
 !
+!修订版本：
 !    date     coder       description
 !    ====     =====       ===========
 ! 05/05/2024   lcz        original code  
