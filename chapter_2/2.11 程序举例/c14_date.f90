@@ -2,7 +2,7 @@ PROGRAM c14_date
 !目的：
 !  通过样本C14剩余的百分比计算死去的时间
 !
-! 修订版本：
+!修订版本：
 !   date        coder       description
 !   ====        =====       ===========
 ! 11/03/15    S. J. Chapman original code

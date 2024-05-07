@@ -2,7 +2,7 @@ PROGRAM temp_conversion
 !目的：
 !  将输入的温度值从华氏度计量转换为开氏温度值，并输出
 !
-! 版本号：
+!版本号：
 !  date         coder       description
 !  ====         =====       ===========
 ! 11/03/15   S. J. Chapman  original code

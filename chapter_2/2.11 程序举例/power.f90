@@ -2,7 +2,7 @@ PROGRAM power
 !目的：
 !  计算电流，实际功率，无功功率和有效功率，功率因子
 !
-! 修订版本：
+!修订版本：
 !   date        coder           description
 !   ====        =====           ===========
 ! 11/03/15    S. J. Chapman     original code

@@ -1,8 +1,8 @@
 PROGRAM roots
 !目的：
-! 该程序求解一元二次方程的根
-! A * X**2 + B * X + C = 0. 计算结果是全方位的
-! (Fortran 95/2003 style)
+!  该程序求解一元二次方程的根
+!  A * X**2 + B * X + C = 0. 计算结果是全方位的
+!  (Fortran 95/2003 style)
 
 IMPLICIT NONE
 

@@ -1,2 +1,2 @@
 程序见earning.f90。
-测试集为7.90 dollars/h，42 h/week，结果为331.8 dollars/week。
+测试集为7.90 dollars/h，42 h/week，结果为331.8 dollars/week。结果可编译earning.f90后运行查看。
