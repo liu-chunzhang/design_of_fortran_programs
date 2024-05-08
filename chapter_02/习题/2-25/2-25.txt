@@ -1,0 +1,2 @@
+程序见frequency_of_radio.f90。
+该程序编译运行后得到L=0.1mH，C=0.25nF时，共振频率为1.01MHz。

@@ -1,0 +1,5 @@
+(a)When h = 1 m, the final velocity of objects you care is 4.429447 m/s.
+(b)When h = 10 m, the final velocity of objects you care is 14.007141 m/s.
+(c)When h = 100 m, the final velocity of objects you care is 44.294472 m/s.
+
+程序见final_velocity.f90。编译运行后得到结果。

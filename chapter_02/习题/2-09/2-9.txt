@@ -1,0 +1,3 @@
+能运行。
+不能产生正确结果。
+因为提示输入角为角度值，但SIN函数和COS函数均提示默认以弧度值输入，所以不能得到正确结果。想得到正确结果需要将 a = c * COS( theta )改为a = c * COSD( theta )，b = c * SIN( theta )改为b = c * SIND( theta )。
